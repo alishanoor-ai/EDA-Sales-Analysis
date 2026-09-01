@@ -1,0 +1,241 @@
+Month,Category,Product,UnitsSold,Price,Revenue
+2025-01,Electronics,Wireless Earbuds,58,111.14,6446.12
+2025-01,Electronics,Smartphone Case,47,91.81,4315.07
+2025-01,Electronics,Power Bank,46,13.42,617.32
+2025-01,Electronics,Bluetooth Speaker,46,130.6,6007.6
+2025-01,Clothing,T-Shirt,57,7.98,454.86
+2025-01,Clothing,Jeans,47,145.64,6845.08
+2025-01,Clothing,Jacket,31,31.36,972.16
+2025-01,Clothing,Sneakers,44,31.59,1389.96
+2025-01,Home & Kitchen,Coffee Maker,32,67.63,2164.16
+2025-01,Home & Kitchen,Blender,10,47.23,472.3
+2025-01,Home & Kitchen,Table Lamp,19,47.36,899.84
+2025-01,Home & Kitchen,Cookware Set,33,58.12,1917.96
+2025-01,Books,Novel,33,33.95,1120.35
+2025-01,Books,Cookbook,20,79.56,1591.2
+2025-01,Books,Self-Help Book,18,93.09,1675.62
+2025-01,Books,Comic Book,23,29.73,683.79
+2025-01,Beauty,Face Cream,31,104.21,3230.51
+2025-01,Beauty,Shampoo,36,68.82,2477.52
+2025-01,Beauty,Lipstick,39,9.99,389.61
+2025-01,Beauty,Perfume,25,136.85,3421.25
+2025-02,Electronics,Wireless Earbuds,63,50.2,3162.6
+2025-02,Electronics,Smartphone Case,29,80.41,2331.89
+2025-02,Electronics,Power Bank,27,145.59,3930.93
+2025-02,Electronics,Bluetooth Speaker,53,117.39,6221.67
+2025-02,Clothing,T-Shirt,46,17.83,820.18
+2025-02,Clothing,Jeans,39,33.42,1303.38
+2025-02,Clothing,Jacket,36,61.36,2208.96
+2025-02,Clothing,Sneakers,33,44.35,1463.55
+2025-02,Home & Kitchen,Coffee Maker,25,45.74,1143.5
+2025-02,Home & Kitchen,Blender,40,83.69,3347.6
+2025-02,Home & Kitchen,Table Lamp,33,15.81,521.73
+2025-02,Home & Kitchen,Cookware Set,26,148.1,3850.6
+2025-02,Books,Novel,17,5.8,98.6
+2025-02,Books,Cookbook,27,123.24,3327.48
+2025-02,Books,Self-Help Book,30,116.83,3504.9
+2025-02,Books,Comic Book,29,15.74,456.46
+2025-02,Beauty,Face Cream,28,130.15,3644.2
+2025-02,Beauty,Shampoo,35,95.38,3338.3
+2025-02,Beauty,Lipstick,33,50.09,1652.97
+2025-02,Beauty,Perfume,37,52.15,1929.55
+2025-03,Electronics,Wireless Earbuds,63,133.65,8419.95
+2025-03,Electronics,Smartphone Case,72,73.47,5289.84
+2025-03,Electronics,Power Bank,56,115.31,6457.36
+2025-03,Electronics,Bluetooth Speaker,39,86.39,3369.21
+2025-03,Clothing,T-Shirt,37,80.8,2989.6
+2025-03,Clothing,Jeans,57,66.99,3818.43
+2025-03,Clothing,Jacket,38,50.58,1922.04
+2025-03,Clothing,Sneakers,33,78.74,2598.42
+2025-03,Home & Kitchen,Coffee Maker,27,64.51,1741.77
+2025-03,Home & Kitchen,Blender,33,114.55,3780.15
+2025-03,Home & Kitchen,Table Lamp,21,139.81,2936.01
+2025-03,Home & Kitchen,Cookware Set,24,122.18,2932.32
+2025-03,Books,Novel,29,121.53,3524.37
+2025-03,Books,Cookbook,24,32.05,769.2
+2025-03,Books,Self-Help Book,23,122.08,2807.84
+2025-03,Books,Comic Book,29,134.93,3912.97
+2025-03,Beauty,Face Cream,30,38.05,1141.5
+2025-03,Beauty,Shampoo,35,66.93,2342.55
+2025-03,Beauty,Lipstick,43,6.01,258.43
+2025-03,Beauty,Perfume,43,79.06,3399.58
+2025-04,Electronics,Wireless Earbuds,26,22.38,581.88
+2025-04,Electronics,Smartphone Case,42,53.95,2265.9
+2025-04,Electronics,Power Bank,47,80.22,3770.34
+2025-04,Electronics,Bluetooth Speaker,56,106.94,5988.64
+2025-04,Clothing,T-Shirt,40,144.55,5782.0
+2025-04,Clothing,Jeans,36,41.51,1494.36
+2025-04,Clothing,Jacket,13,46.3,601.9
+2025-04,Clothing,Sneakers,37,10.35,382.95
+2025-04,Home & Kitchen,Coffee Maker,30,12.46,373.8
+2025-04,Home & Kitchen,Blender,54,45.4,2451.6
+2025-04,Home & Kitchen,Table Lamp,28,26.01,728.28
+2025-04,Home & Kitchen,Cookware Set,33,75.97,2507.01
+2025-04,Books,Novel,31,39.46,1223.26
+2025-04,Books,Cookbook,28,110.59,3096.52
+2025-04,Books,Self-Help Book,33,96.86,3196.38
+2025-04,Books,Comic Book,11,82.69,909.59
+2025-04,Beauty,Face Cream,26,10.91,283.66
+2025-04,Beauty,Shampoo,32,90.68,2901.76
+2025-04,Beauty,Lipstick,19,98.55,1872.45
+2025-04,Beauty,Perfume,40,30.28,1211.2
+2025-05,Electronics,Wireless Earbuds,34,140.83,4788.22
+2025-05,Electronics,Smartphone Case,75,24.94,1870.5
+2025-05,Electronics,Power Bank,36,139.08,5006.88
+2025-05,Electronics,Bluetooth Speaker,44,132.21,5817.24
+2025-05,Clothing,T-Shirt,47,123.5,5804.5
+2025-05,Clothing,Jeans,22,85.5,1881.0
+2025-05,Clothing,Jacket,17,18.5,314.5
+2025-05,Clothing,Sneakers,39,135.1,5268.9
+2025-05,Home & Kitchen,Coffee Maker,32,54.16,1733.12
+2025-05,Home & Kitchen,Blender,37,55.64,2058.68
+2025-05,Home & Kitchen,Table Lamp,35,133.63,4677.05
+2025-05,Home & Kitchen,Cookware Set,32,118.08,3778.56
+2025-05,Books,Novel,17,28.44,483.48
+2025-05,Books,Cookbook,24,135.29,3246.96
+2025-05,Books,Self-Help Book,24,5.73,137.52
+2025-05,Books,Comic Book,17,28.32,481.44
+2025-05,Beauty,Face Cream,64,99.53,6369.92
+2025-05,Beauty,Shampoo,46,37.52,1725.92
+2025-05,Beauty,Lipstick,27,52.18,1408.86
+2025-05,Beauty,Perfume,50,113.24,5662.0
+2025-06,Electronics,Wireless Earbuds,66,100.35,6623.1
+2025-06,Electronics,Smartphone Case,56,87.4,4894.4
+2025-06,Electronics,Power Bank,45,43.45,1955.25
+2025-06,Electronics,Bluetooth Speaker,37,40.38,1494.06
+2025-06,Clothing,T-Shirt,36,134.35,4836.6
+2025-06,Clothing,Jeans,41,96.52,3957.32
+2025-06,Clothing,Jacket,37,88.65,3280.05
+2025-06,Clothing,Sneakers,55,76.42,4203.1
+2025-06,Home & Kitchen,Coffee Maker,36,45.71,1645.56
+2025-06,Home & Kitchen,Blender,21,8.53,179.13
+2025-06,Home & Kitchen,Table Lamp,19,141.37,2686.03
+2025-06,Home & Kitchen,Cookware Set,34,143.32,4872.88
+2025-06,Books,Novel,20,7.24,144.8
+2025-06,Books,Cookbook,27,139.61,3769.47
+2025-06,Books,Self-Help Book,26,144.72,3762.72
+2025-06,Books,Comic Book,21,128.69,2702.49
+2025-06,Beauty,Face Cream,28,128.41,3595.48
+2025-06,Beauty,Shampoo,19,50.95,968.05
+2025-06,Beauty,Lipstick,42,140.74,5911.08
+2025-06,Beauty,Perfume,23,105.92,2436.16
+2025-07,Electronics,Wireless Earbuds,35,94.18,3296.3
+2025-07,Electronics,Smartphone Case,52,148.56,7725.12
+2025-07,Electronics,Power Bank,50,132.22,6611.0
+2025-07,Electronics,Bluetooth Speaker,30,112.41,3372.3
+2025-07,Clothing,T-Shirt,51,57.13,2913.63
+2025-07,Clothing,Jeans,50,47.57,2378.5
+2025-07,Clothing,Jacket,43,130.73,5621.39
+2025-07,Clothing,Sneakers,43,137.42,5909.06
+2025-07,Home & Kitchen,Coffee Maker,35,120.75,4226.25
+2025-07,Home & Kitchen,Blender,68,99.24,6748.32
+2025-07,Home & Kitchen,Table Lamp,39,134.05,5227.95
+2025-07,Home & Kitchen,Cookware Set,36,54.01,1944.36
+2025-07,Books,Novel,16,88.85,1421.6
+2025-07,Books,Cookbook,20,10.21,204.2
+2025-07,Books,Self-Help Book,39,46.55,1815.45
+2025-07,Books,Comic Book,8,90.67,725.36
+2025-07,Beauty,Face Cream,33,23.42,772.86
+2025-07,Beauty,Shampoo,54,80.73,4359.42
+2025-07,Beauty,Lipstick,30,95.32,2859.6
+2025-07,Beauty,Perfume,49,17.38,851.62
+2025-08,Electronics,Wireless Earbuds,50,83.39,4169.5
+2025-08,Electronics,Smartphone Case,39,97.43,3799.77
+2025-08,Electronics,Power Bank,16,120.3,1924.8
+2025-08,Electronics,Bluetooth Speaker,53,44.27,2346.31
+2025-08,Clothing,T-Shirt,27,8.68,234.36
+2025-08,Clothing,Jeans,36,144.58,5204.88
+2025-08,Clothing,Jacket,43,64.3,2764.9
+2025-08,Clothing,Sneakers,48,30.13,1446.24
+2025-08,Home & Kitchen,Coffee Maker,25,84.64,2116.0
+2025-08,Home & Kitchen,Blender,23,108.62,2498.26
+2025-08,Home & Kitchen,Table Lamp,17,143.46,2438.82
+2025-08,Home & Kitchen,Cookware Set,39,112.0,4368.0
+2025-08,Books,Novel,38,65.84,2501.92
+2025-08,Books,Cookbook,30,40.92,1227.6
+2025-08,Books,Self-Help Book,32,7.09,226.88
+2025-08,Books,Comic Book,17,21.83,371.11
+2025-08,Beauty,Face Cream,45,73.76,3319.2
+2025-08,Beauty,Shampoo,50,19.19,959.5
+2025-08,Beauty,Lipstick,0,30.11,0.0
+2025-08,Beauty,Perfume,26,67.91,1765.66
+2025-09,Electronics,Wireless Earbuds,77,97.09,7475.93
+2025-09,Electronics,Smartphone Case,26,11.57,300.82
+2025-09,Electronics,Power Bank,74,77.95,5768.3
+2025-09,Electronics,Bluetooth Speaker,26,129.19,3358.94
+2025-09,Clothing,T-Shirt,25,15.23,380.75
+2025-09,Clothing,Jeans,43,98.15,4220.45
+2025-09,Clothing,Jacket,38,141.33,5370.54
+2025-09,Clothing,Sneakers,32,88.44,2830.08
+2025-09,Home & Kitchen,Coffee Maker,45,71.45,3215.25
+2025-09,Home & Kitchen,Blender,17,84.11,1429.87
+2025-09,Home & Kitchen,Table Lamp,28,144.37,4042.36
+2025-09,Home & Kitchen,Cookware Set,35,136.28,4769.8
+2025-09,Books,Novel,24,15.32,367.68
+2025-09,Books,Cookbook,17,51.25,871.25
+2025-09,Books,Self-Help Book,18,22.13,398.34
+2025-09,Books,Comic Book,28,106.03,2968.84
+2025-09,Beauty,Face Cream,51,111.59,5691.09
+2025-09,Beauty,Shampoo,44,121.5,5346.0
+2025-09,Beauty,Lipstick,28,113.84,3187.52
+2025-09,Beauty,Perfume,32,121.99,3903.68
+2025-10,Electronics,Wireless Earbuds,49,58.94,2888.06
+2025-10,Electronics,Smartphone Case,51,117.58,5996.58
+2025-10,Electronics,Power Bank,59,129.47,7638.73
+2025-10,Electronics,Bluetooth Speaker,46,67.2,3091.2
+2025-10,Clothing,T-Shirt,47,19.95,937.65
+2025-10,Clothing,Jeans,47,135.87,6385.89
+2025-10,Clothing,Jacket,53,51.41,2724.73
+2025-10,Clothing,Sneakers,37,134.85,4989.45
+2025-10,Home & Kitchen,Coffee Maker,33,142.84,4713.72
+2025-10,Home & Kitchen,Blender,28,88.15,2468.2
+2025-10,Home & Kitchen,Table Lamp,21,47.52,997.92
+2025-10,Home & Kitchen,Cookware Set,50,52.66,2633.0
+2025-10,Books,Novel,31,119.78,3713.18
+2025-10,Books,Cookbook,28,119.49,3345.72
+2025-10,Books,Self-Help Book,22,13.35,293.7
+2025-10,Books,Comic Book,15,84.68,1270.2
+2025-10,Beauty,Face Cream,53,55.88,2961.64
+2025-10,Beauty,Shampoo,38,21.97,834.86
+2025-10,Beauty,Lipstick,45,94.64,4258.8
+2025-10,Beauty,Perfume,32,19.66,629.12
+2025-11,Electronics,Wireless Earbuds,54,15.55,839.7
+2025-11,Electronics,Smartphone Case,41,124.17,5090.97
+2025-11,Electronics,Power Bank,42,17.3,726.6
+2025-11,Electronics,Bluetooth Speaker,53,148.06,7847.18
+2025-11,Clothing,T-Shirt,19,122.86,2334.34
+2025-11,Clothing,Jeans,19,142.35,2704.65
+2025-11,Clothing,Jacket,28,117.69,3295.32
+2025-11,Clothing,Sneakers,34,85.97,2922.98
+2025-11,Home & Kitchen,Coffee Maker,38,21.12,802.56
+2025-11,Home & Kitchen,Blender,28,76.43,2140.04
+2025-11,Home & Kitchen,Table Lamp,29,13.16,381.64
+2025-11,Home & Kitchen,Cookware Set,27,22.23,600.21
+2025-11,Books,Novel,24,113.18,2716.32
+2025-11,Books,Cookbook,16,89.59,1433.44
+2025-11,Books,Self-Help Book,21,46.43,975.03
+2025-11,Books,Comic Book,25,130.95,3273.75
+2025-11,Beauty,Face Cream,42,15.7,659.4
+2025-11,Beauty,Shampoo,40,85.31,3412.4
+2025-11,Beauty,Lipstick,40,96.26,3850.4
+2025-11,Beauty,Perfume,46,105.88,4870.48
+2025-12,Electronics,Wireless Earbuds,85,89.73,7627.05
+2025-12,Electronics,Smartphone Case,37,135.67,5019.79
+2025-12,Electronics,Power Bank,86,45.22,3888.92
+2025-12,Electronics,Bluetooth Speaker,36,32.28,1162.08
+2025-12,Clothing,T-Shirt,10,89.63,896.3
+2025-12,Clothing,Jeans,30,16.27,488.1
+2025-12,Clothing,Jacket,41,49.88,2045.08
+2025-12,Clothing,Sneakers,60,123.0,7380.0
+2025-12,Home & Kitchen,Coffee Maker,21,137.08,2878.68
+2025-12,Home & Kitchen,Blender,34,124.27,4225.18
+2025-12,Home & Kitchen,Table Lamp,16,140.25,2244.0
+2025-12,Home & Kitchen,Cookware Set,48,130.58,6267.84
+2025-12,Books,Novel,31,148.16,4592.96
+2025-12,Books,Cookbook,18,26.81,482.58
+2025-12,Books,Self-Help Book,9,145.64,1310.76
+2025-12,Books,Comic Book,32,127.11,4067.52
+2025-12,Beauty,Face Cream,38,65.15,2475.7
+2025-12,Beauty,Shampoo,56,44.64,2499.84
+2025-12,Beauty,Lipstick,40,116.5,4660.0
+2025-12,Beauty,Perfume,40,141.99,5679.6
