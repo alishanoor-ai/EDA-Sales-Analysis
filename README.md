@@ -9,7 +9,7 @@ Act as a data detective — ask meaningful questions about the dataset, and use 
 ## 📁 Files
 
 - `EDA_Sales_Analysis.ipynb` — Jupyter/Colab notebook with full analysis
-- `sales_data.csv` — Raw sales dataset (Jan–Dec 2025)
+- `sales_data (1).csv` — Raw sales dataset (Jan–Dec 2025)
 
 ## 🔍 Dataset Overview
 
@@ -51,7 +51,7 @@ Columns: `Month`, `Category`, `Product`, `UnitsSold`, `Price`, `Revenue`
 
 1. Clone this repository
 2. Open `EDA_Sales_Analysis.ipynb` in Jupyter Notebook or Google Colab
-3. Make sure `sales_data.csv` is in the same directory
+3. Make sure `sales_data (1).csv` is in the same directory
 4. Run all cells
 
 ---
